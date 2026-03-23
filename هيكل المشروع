@@ -1,0 +1,16 @@
+BrainDreamApp/
+├─ app/
+│  ├─ src/
+│  │  ├─ main/
+│  │  │  ├─ java/com/yourname/braindreamapp/
+│  │  │  │   ├─ BrainDreamAppActivity.kt
+│  │  │  ├─ res/
+│  │  │  │   ├─ layout/activity_main.xml
+│  │  │  │   ├─ values/strings.xml
+│  │  │  │   ├─ values/colors.xml
+│  │  │  │   └─ drawable/
+│  │  │  └─ AndroidManifest.xml
+│  └─ build.gradle
+├─ build.gradle
+├─ settings.gradle
+└─ README.md
